@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/interactive-pricing-component/static/css/main.cf62d305.css",
+    "main.js": "/interactive-pricing-component/static/js/main.e31ad648.js",
+    "static/js/787.0e04715a.chunk.js": "/interactive-pricing-component/static/js/787.0e04715a.chunk.js",
+    "index.html": "/interactive-pricing-component/index.html",
+    "static/media/icon-slider.svg": "/interactive-pricing-component/static/media/icon-slider.cbca35e0d11c560ba351.svg",
+    "static/media/pattern-circles.svg": "/interactive-pricing-component/static/media/pattern-circles.9f6ed14bb3b0084b05a9e72350bf40e4.svg",
+    "static/media/bg-pattern.svg": "/interactive-pricing-component/static/media/bg-pattern.76d3fa7ddce078ad96b5.svg",
+    "static/media/icon-check.svg": "/interactive-pricing-component/static/media/icon-check.83c38a48815855ecc2d7.svg",
+    "main.cf62d305.css.map": "/interactive-pricing-component/static/css/main.cf62d305.css.map",
+    "main.e31ad648.js.map": "/interactive-pricing-component/static/js/main.e31ad648.js.map",
+    "787.0e04715a.chunk.js.map": "/interactive-pricing-component/static/js/787.0e04715a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf62d305.css",
+    "static/js/main.e31ad648.js"
+  ]
+}
