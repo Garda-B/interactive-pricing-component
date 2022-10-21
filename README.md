@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://garda-b.github.io/interactice-pricing-component/
+- Live Site URL: https://garda-b.github.io/interactive-pricing-component/
 
 ### Built with
 
